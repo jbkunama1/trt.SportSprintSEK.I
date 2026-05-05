@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_la_klasse6.png" alt="Leichtathletik Klasse 6" width="300"/>
+  <img src="logo_la_klasse6.jpeg" alt="Leichtathletik Klasse 6" width="300"/>
 </p>
 
 <h1 align="center">⚡ Leichtathletik – Klasse 6</h1>
