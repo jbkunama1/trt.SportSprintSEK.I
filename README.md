@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Inklusion-♿%20differenziert-a855f7?style=flat-square" />
   <img src="https://img.shields.io/badge/Umfang-5%20Doppelstunden-64748b?style=flat-square" />
   <img src="https://img.shields.io/badge/Quellen-J%2BS%20%7C%20Skript%20LA%20%7C%20BP%202016-ec4899?style=flat-square" />
-</p>
+</p>[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
 
 ---
 
